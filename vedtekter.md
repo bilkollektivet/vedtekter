@@ -17,7 +17,7 @@ Bilkollektivets forretningskontor ligger i Oslo kommune.
 ## 2. FORMÅL
 
 Bilkollektivet skal fremskaffe og tilby smart, miljøvennlig og nonprofit-deling
-av framkomstmidler som fullt ut erstatter brukernes behov for egen privatbil.
+av framkomstmidler som fullt ut erstatter medlemmenes behov for egen privatbil.
 Bilkollektivet skal gjennom dette bidra til et grønnere og bedre miljø med færre
 biler og mindre unødvendig kjøring.
 
