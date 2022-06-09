@@ -90,13 +90,13 @@ Bilkollektivets øverste organ er årsmøtet. Hvert medlemskap har én stemme i
 årsmøtet. Ordinært årsmøte skal finne sted senest 20. juni hvert år. Styret skal
 skriftlig varsle medlemmene om årsmøtet minst 6 uker på forhånd. Varslet skal
 omfatte tid for møtet samt valgkomiteens innstilling til nytt styre. Saker
-fremmet av medlemmer, herunder alternative forslag til styrets sammensetning,
-skal være styret i hende senest 2 uker før årsmøtet. Innkalling og endelig
-saksliste skal meddeles medlemmene skriftlig 1 uke før årsmøtet. Årsmøtet kan
-ikke behandle saker som ikke er ført på sakslisten. Årsregnskap, årsmelding og
-revisjonsmelding gjøres tilgjengelig for medlemmene på annet forsvarlig vis enn
-ved utsending slik at dokumentene ikke er offentlig tilgjengelig. Det skal
-fremkomme i innkallingen hvordan dokumentene er tilgjengeliggjort.
+fremmet av medlemmer, skal være styret i hende senest 2 uker før årsmøtet.
+Innkalling og endelig saksliste skal meddeles medlemmene skriftlig 1 uke før
+årsmøtet. Årsmøtet kan ikke behandle saker som ikke er ført på sakslisten.
+Årsregnskap, årsmelding og revisjonsmelding gjøres tilgjengelig for medlemmene
+på annet forsvarlig vis enn ved utsending slik at dokumentene ikke er offentlig
+tilgjengelig. Det skal fremkomme i innkallingen hvordan dokumentene er
+tilgjengeliggjort.
 
 Etter å ha valgt møteleder, skal årsmøtet behandle følgende saker:
 
