@@ -173,8 +173,9 @@ reglene i voldgiftsloven.
 
 ## 12. VEDTEKTSENDRINGER
 
-Disse vedtektene kan endres med 2/3 flertall på et årsmøte.
-
+Disse vedtektene kan endres med 2/3 flertall på et årsmøte, såfremt forslag til
+endringer er ført opp på innkalling til møtet og tilkjennegjort andelseierne
+senest 7 dager før andelseiermøtet.
 
 ## 13. OPPLØSNING
 
