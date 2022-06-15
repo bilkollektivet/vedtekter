@@ -1,7 +1,7 @@
 Vedtekter for Bilkollektivet
 ============================
 
-_Forslag til årsmøtet 15. juni 2022_
+_Vedtatt av årsmøtet 15. juni 2022_
 
 ## 1. ORGANISASJON
 
@@ -53,7 +53,7 @@ andelslag, har likevel kun ett eierskap i dagens samvirkeforetak, jf. stemmerett
 i kap. 9.
 
 
-## 6. BRUKER AV TJENESTENE
+## 5. BRUKER AV TJENESTENE
 
 En bruker har rett til å bruke Bilkollektivets kjøretøy til de på enhver tid
 fastsatte priser og i henhold til gjeldende vilkår.
@@ -73,7 +73,7 @@ og andre eiendeler.
 Det tilligger styret å godkjenne retningslinjer for slike tjenester.
 
 
-## 7. ÅRSMØTET
+## 6. ÅRSMØTET
 
 Bilkollektivets øverste organ er årsmøtet. Hvert medlemskap har én stemme i
 årsmøtet. Ordinært årsmøte skal finne sted senest 20. juni hvert år. Styret skal
@@ -107,7 +107,7 @@ saksliste og forslag til vedtak fra dem som krever møtet. Bare forhåndsvarslet
 saksliste kan behandles.
 
 
-## 8. STYRET
+## 7. STYRET
 
 Bilkollektivet ledes av et styre. Styret er Bilkollektivets høyeste organ mellom
 årsmøtene. Styret skal bestå av et ulikt antall medlemmer på mellom 5 og 7
@@ -130,7 +130,7 @@ I tillegg skal styret:
 * Utarbeide budsjett.
 
 
-## 9. DIREKTØR
+## 8. DIREKTØR
 
 Bilkollektivets daglige drift utføres av en direktør, ansatt av styret.
 
@@ -138,7 +138,7 @@ Direktør skal ha slik fullmakt gitt av styret. Direktør har møteplikt på
 styremøter, samt talerett og forslagsrett.
 
 
-## 10. UTESTENGNING OG SANKSJONER
+## 9. UTESTENGNING OG SANKSJONER
 
 Styret skal utarbeide kriterier og retningslinjer for når en medeier eller
 bruker kan utestenges. Administrasjonen ved direktøren overlates kompetansen om
@@ -154,18 +154,18 @@ medeiere og/eller brukere som ikke opptrer i tråd med Bilkollektivets vilkår
 eller instruks.
 
 
-## 11. VOLDGIFT
+## 10. VOLDGIFT
 
 Tvister mellom en andelseier og Bilkollektivet skal avgjøres ved voldgift etter
 reglene i voldgiftsloven.
 
 
-## 12. VEDTEKTSENDRINGER
+## 11. VEDTEKTSENDRINGER
 
 Disse vedtektene kan endres med 2/3 flertall på et årsmøte.
 
 
-## 13. OPPLØSNING
+## 12. OPPLØSNING
 
 Oppløsning av Bilkollektivet krever 2/3 flertall av alle medlemmer, eventuelt et
 2/3 flertall på et ordinært årsmøte fulgt av 2/3 flertall på et ekstraordinært
@@ -186,7 +186,7 @@ Framtiden i våre hender, Norges Miljøvernforbund, Natur og ungdom og Norges
 Naturvernforbund.
 
 
-## 14. SIGNATUR
+## 13. SIGNATUR
 
 Bilkollektivets signatur innehas av styrets medlemmer i fellesskap.
 
